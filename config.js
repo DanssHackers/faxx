@@ -12,7 +12,7 @@ global.APIKeys = {
 	'https://zenzapis.xyz': '0e92565522',
 }
 // Other
-global.owner = ['6282124260882','6282124260882']
+global.owner = ['6282114945861','6282124260882']
 global.premium = ['6282124260882']
 global.ownername = '𝘋𝘢𝘯𝘴𝘴???'
 global.packname = '𝘋𝘢𝘯𝘴𝘴!! 𝘔𝘢𝘴𝘋𝘢𝘯𝘴𝘴²²??' //Wm sticker nya
